@@ -1,0 +1,45 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="monoBooks/DetailsViewController.xib.designer.cs" ctype="Workbench">
+    <Files>
+      <File FileName="monoBooks/books.xml" Line="15" Column="9" />
+      <File FileName="../Koolwired/src/Koolwired.IMAP/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="monoBooks/Main.cs" Line="1" Column="1" />
+      <File FileName="monoBooks/MainWindow.xib.designer.cs" Line="48" Column="1" />
+      <File FileName="monoBooks/RootViewController.xib.cs" Line="77" Column="1" />
+      <File FileName="monoBooks/RootViewController.xib.designer.cs" Line="34" Column="1" />
+      <File FileName="monoBooks/Book.cs" Line="1" Column="1" />
+      <File FileName="monoBooks/DetailsViewController.xib.cs" Line="49" Column="4" />
+      <File FileName="monoBooks/DetailsViewController.xib.designer.cs" Line="90" Column="1" />
+      <File FileName="Assembly Browser" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="monoBooks" expanded="True">
+            <Node name="DetailsViewController.xib" expanded="True">
+              <Node name="DetailsViewController.xib.designer.cs" selected="True" />
+            </Node>
+            <Node name="RootViewController.xib" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="monoBooks" expanded="True">
+            <Node name="monoBooks" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State selected="True" />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

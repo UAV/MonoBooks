@@ -1,0 +1,65 @@
+<books>
+	<book>
+		<title>Agile Coaching</title>
+		<author>Rachel Davies and Liz Sedley</author>
+		<image>sdcoach.png</image>
+		<price>34.95</price>
+		<description>Discover how to coach your team to become more Agile. Agile Coaching de-mystifies agile practices—it’s a practical guide to creating strong agile teams. Packed with useful tips from practicing agile coaches Rachel Davies and Liz Sedley, this book gives you coaching tools that you can apply whether you are a project manager, a technical lead, or working in a software team.</description>
+	</book>
+	<book>
+		<title>Agile Web Development with Rails, Third Edition</title>
+		<author>Sam Ruby, Dave Thomas, David Heinemeier Hansson, et al</author>
+		<image>rails3.png</image>
+		<price>43.95</price>
+		<description>Rails just keeps on changing. Rails 2, released in 2008, brings hundreds of improvements, including new support for RESTful applications, new generator options, and so on. And, as importantly, we’ve all learned a lot more about writing Rails applications in the last few years.</description>
+	</book>
+	<book>
+		<title>Cocoa Programming</title>
+		<author>Daniel H Steinberg</author>
+		<image>dscpq.png</image>
+		<price>22.95</price>
+		<description>Apple’s Cocoa frameworks let you write powerful and attractive applications for Mac OS X or the iPhone. With this book plus your existing knowledge of object-oriented programming you can take advantage of Cocoa and create compelling, feature rich, compliant Mac applications for this industry-leading environment.</description>
+	</book>
+	<book>
+		<title>Core Animation for Mac OS X and the iPhone</title>
+		<author>Bill Dudney</author>
+		<image>bdcora.png</image>
+		<price>34.95</price>
+		<description>Discover how to coach your team to become more Agile. Agile Coaching de-mystifies agile practices—it’s a practical guide to creating strong agile teams. Packed with useful tips from practicing agile coaches Rachel Davies and Liz Sedley, this book gives you coaching tools that you can apply whether you are a project manager, a technical lead, or working in a software team.</description>
+	</book>
+	<book>
+		<title>Hello, Android: Introducing Google&apos;s Mobile Development Platform, 2nd Edition</title>
+		<author>Ed Burnette</author>
+		<image>eband2.png</image>
+		<price>32.95</price>
+		<description>Android combines the ubiquity of cell phones, the excitement of open source software, and the corporate backing of Google and other Open Handset Alliance members. The result is a mobile platform you can’t afford not to learn. This second edition is completely updated for Android 1.5 (Cupcake) and Android 1.6 (Donut).</description>
+	</book>
+	<book>
+		<title>Practices of an Agile Developer</title>
+		<author>Venkat Subramaniam and Andy Hunt</author>
+		<image>pad.png</image>
+		<price>29.95</price>
+		<description>You’ll learn how to improve your software development process, see what price agile practices feel like, avoid the common temptations that kill projects, and keep agile practices in balance.</description>
+	</book>
+	<book>
+		<title>Programming Erlang: Software for a Concurrent World</title>
+		<author>Joe Armstrong</author>
+		<image>jaerlang.png</image>
+		<price>36.95</price>
+		<description>Learn how to write truly concurrent programs—programs that run on dozens or even hundreds of local and remote processors. See how to write high reliability applications—even in the face of network and hardware failure—using the Erlang programming language.</description>
+	</book>
+	<book>
+		<title>Programming Ruby 1.9: The Pragmatic Programmers&apos; Guide</title>
+		<author>Dave Thomas, with Chad Fowler and Andy Hunt</author>
+		<image>ruby3.png</image>
+		<price>49.95</price>
+		<description>Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.</description>
+	</book>
+	<book>
+		<title>Grails: A Quick-Start Guide</title>
+		<author>Dave Klein</author>
+		<image>dkgrails.png</image>
+		<price>32.95</price>
+		<description>Java web development is notoriously tedious, but help is on the way: Grails. Using the principle of convention-over-configuration and the dynamic Groovy programming language, Grails takes the pain out of web development and brings back the fun. This book will get you up and running with Grails by putting it to use in constructing an original, working application from start to finish.</description>
+	</book>
+</books>

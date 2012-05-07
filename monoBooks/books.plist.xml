@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>author</key>
+		<string>Rachel Davies and Liz Sedley</string>
+		<key>description</key>
+		<string>Discover how to coach your team to become more Agile. Agile Coaching de-mystifies agile practices—it’s a practical guide to creating strong agile teams. Packed with useful tips from practicing agile coaches Rachel Davies and Liz Sedley, this book gives you coaching tools that you can apply whether you are a project manager, a technical lead, or working in a software team.</string>
+		<key>image</key>
+		<string>sdcoach.png</string>
+		<key>price</key>
+		<real>34.950000000000003</real>
+		<key>title</key>
+		<string>Agile Coaching</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Sam Ruby, Dave Thomas, David Heinemeier Hansson, et al</string>
+		<key>description</key>
+		<string>Rails just keeps on changing. Rails 2, released in 2008, brings hundreds of improvements, including new support for RESTful applications, new generator options, and so on. And, as importantly, we’ve all learned a lot more about writing Rails applications in the last few years.</string>
+		<key>image</key>
+		<string>rails3.png</string>
+		<key>price</key>
+		<real>43.950000000000003</real>
+		<key>title</key>
+		<string>Agile Web Development with Rails, Third Edition</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Daniel H Steinberg</string>
+		<key>description</key>
+		<string>Apple’s Cocoa frameworks let you write powerful and attractive applications for Mac OS X or the iPhone. With this book plus your existing knowledge of object-oriented programming you can take advantage of Cocoa and create compelling, feature rich, compliant Mac applications for this industry-leading environment.</string>
+		<key>image</key>
+		<string>dscpq.png</string>
+		<key>price</key>
+		<real>22.949999999999999</real>
+		<key>title</key>
+		<string>Cocoa Programming</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Bill Dudney</string>
+		<key>description</key>
+		<string>Discover how to coach your team to become more Agile. Agile Coaching de-mystifies agile practices—it’s a practical guide to creating strong agile teams. Packed with useful tips from practicing agile coaches Rachel Davies and Liz Sedley, this book gives you coaching tools that you can apply whether you are a project manager, a technical lead, or working in a software team.</string>
+		<key>image</key>
+		<string>bdcora.png</string>
+		<key>price</key>
+		<real>34.950000000000003</real>
+		<key>title</key>
+		<string>Core Animation for Mac OS X and the iPhone</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Ed Burnette</string>
+		<key>description</key>
+		<string>Android combines the ubiquity of cell phones, the excitement of open source software, and the corporate backing of Google and other Open Handset Alliance members. The result is a mobile platform you can’t afford not to learn. This second edition is completely updated for Android 1.5 (Cupcake) and Android 1.6 (Donut).</string>
+		<key>image</key>
+		<string>eband2.png</string>
+		<key>price</key>
+		<real>32.950000000000003</real>
+		<key>title</key>
+		<string>Hello, Android: Introducing Google's Mobile Development Platform, 2nd Edition</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Venkat Subramaniam and Andy Hunt</string>
+		<key>description</key>
+		<string>You’ll learn how to improve your software development process, see what real agile practices feel like, avoid the common temptations that kill projects, and keep agile practices in balance.</string>
+		<key>image</key>
+		<string>pad.png</string>
+		<key>price</key>
+		<real>29.949999999999999</real>
+		<key>title</key>
+		<string>Practices of an Agile Developer</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Joe Armstrong</string>
+		<key>description</key>
+		<string>Learn how to write truly concurrent programs—programs that run on dozens or even hundreds of local and remote processors. See how to write high reliability applications—even in the face of network and hardware failure—using the Erlang programming language.</string>
+		<key>image</key>
+		<string>jaerlang.png</string>
+		<key>price</key>
+		<real>36.950000000000003</real>
+		<key>title</key>
+		<string>Programming Erlang: Software for a Concurrent World</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Dave Thomas, with Chad Fowler and Andy Hunt</string>
+		<key>description</key>
+		<string>Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.</string>
+		<key>image</key>
+		<string>ruby3.png</string>
+		<key>price</key>
+		<real>49.950000000000003</real>
+		<key>title</key>
+		<string>Programming Ruby 1.9: The Pragmatic Programmers' Guide</string>
+	</dict>
+	<dict>
+		<key>author</key>
+		<string>Dave Klein</string>
+		<key>description</key>
+		<string>Java web development is notoriously tedious, but help is on the way: Grails. Using the principle of convention-over-configuration and the dynamic Groovy programming language, Grails takes the pain out of web development and brings back the fun. This book will get you up and running with Grails by putting it to use in constructing an original, working application from start to finish.</string>
+		<key>image</key>
+		<string>dkgrails.png</string>
+		<key>price</key>
+		<real>32.950000000000003</real>
+		<key>title</key>
+		<string>Grails: A Quick-Start Guide</string>
+	</dict>
+</array>
+</plist>
